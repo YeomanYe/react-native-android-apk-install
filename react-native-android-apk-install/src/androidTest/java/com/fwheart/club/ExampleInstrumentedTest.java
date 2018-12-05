@@ -1,4 +1,4 @@
-package com.fwheart.club.react_native_android_apk_install;
+package com.fwheart.club;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

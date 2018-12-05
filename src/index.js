@@ -1,4 +1,4 @@
 import { NativeModules} from 'react-native';
 
 
-export default NativeModules.InstallApk;
+export default NativeModules.InstallApk.install;
