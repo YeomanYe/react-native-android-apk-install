@@ -18,7 +18,7 @@
     "name": "FWHeart",
     "email": "ming13821007683@gmail.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "repository": "https://github.com/YeomanYe/react-native-android-apk-install",
   "bugs": "https://github.com/YeomanYe/react-native-android-apk-install/issues",
   "peerDependencies": {
